@@ -7,4 +7,5 @@ int main(){
     gap=sqrt( pow(x1-x2,2) +pow(y1-y2,2));
     printf("khoang cach giua hai diem la:%.2f",gap);
     return 0;
+//em chao thay giao
 }
